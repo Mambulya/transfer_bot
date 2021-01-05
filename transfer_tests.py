@@ -28,7 +28,7 @@ for row in range(1, row_number):
     file_write.save("results1.xls") # save the check inan excel file
 
 
-# for 1 table (numbers of decimal notation initially)
+# for 1 table ( numbers of decimal notation initially )
 for row in range(12, 13):
     base = 10
     number = str(sheet.row(row)[0]).replace("text:", "").replace("'", "").replace("number:", "")
