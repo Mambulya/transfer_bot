@@ -1,12 +1,7 @@
 """
-        MAIN
-program for interpretation
-         oop version 89 lines
-                     130
-                     128
 upd: 31,5%  optimisation  (Velocity, linear complexity)
-upd1: 89% 3 lines optimisation  (Velocity, linear complexity)
-upd2: 99.9% 3 lines optimisation  (memory complexity)
+upd1: 89% 3 lines optimization  (Velocity, linear complexity)
+upd2: 99.9% 3 lines optimisztion  (memory complexity)
 """
 from sys import exit
 
